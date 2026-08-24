@@ -104,9 +104,17 @@ main {
 .sidebar {
     width: 25%;
     flex: 1;
-    background-color: #080808;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px lch(0% 0 0 / 0.1);
+    background-color: #ee9191;
+    padding: 15px;
+    border-radius: 0px;
+    margin-bottom: 10px;
 }
 
+.footer {
+    background-color: #f0bc03;
+    padding: 20px 8%;
+    text-align: center;
+    color: #475c6c;
+    font-size: 1rem;
+    box-shadow: 0 -3px 8px rgba(0,0,0,0.1);
+}
