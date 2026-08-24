@@ -134,3 +134,21 @@ nav a:hover{
     object-fit: cover;
     border-radius: 5px;
 }
+
+/* SIDEBAR */
+.sidebar {
+    width: 25%;
+}
+
+/* SIDEBAR BOXES */
+.sidebox {
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: #e8e8ed;
+}
+
+/* SIDEBAR TEXT */
+.sidebox h3 {
+    font-size: 16px;
+}
