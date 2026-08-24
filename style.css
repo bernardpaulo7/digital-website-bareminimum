@@ -99,3 +99,14 @@ main {
     border-radius: 8px;
     box-shadow: 0 3px 8px lch(0% 0 0 / 0.1);
 }
+
+/* Sidebar */
+.sidebar {
+    width: 25%;
+    flex: 1;
+    background-color: #080808;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px lch(0% 0 0 / 0.1);
+}
+
